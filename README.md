@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Dinesh S 
-- 👀 I’m interested in Web development...
-- 🌱 I’m currently learning React Js...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  
+# Welcome to My GitHub Profile! 👋
 
-<!---
-dineshdevelope/dineshdevelope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 😄 Hi, I'm Dinesh S.
+- 👀 I’m interested in Web development.
+- 🌱 Currently, I'm learning React Js.
+- 💞️ I’m looking to collaborate on exciting web projects.
+
+## Get in Touch
+- 📫 You can reach me on [Instagram](https://www.instagram.com/dineshindoteng/).
+- 🔗 Check out my GitHub repositories for more projects and contributions.
+
+<!-- Thanks for stopping by! Don't forget to leave a star ⭐️ if you find something interesting! -->
